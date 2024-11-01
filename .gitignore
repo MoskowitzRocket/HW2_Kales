@@ -1,0 +1,5 @@
+/.vscode
+/build.exe
+/GradeManager.o
+/main.o
+/Student.o
